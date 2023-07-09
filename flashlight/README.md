@@ -1,6 +1,6 @@
 # flashlight
 
-A new Flutter project.
+A flashlight application.
 
 ## Getting Started
 
